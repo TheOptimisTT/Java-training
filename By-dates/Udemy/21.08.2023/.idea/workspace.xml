@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a4e3e6-9d25-4ad6-9cca-a362d74992a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/HackerRank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HasNextScan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/MathProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/Multiplication_table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/StringChallange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/.idea/HackerRank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/Conditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/HasNextScan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/MathProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/Multiplication_table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/StringChallange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/primitiveType_checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/printf_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/stdin_and_stdout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/stdin_and_stdout2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/stdin_and_stdout3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/out/production/HackerRank/sysout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/primitiveType_checker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/printf_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/stdin_and_stdout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/stdin_and_stdout2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/stdin_and_stdout3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/sysout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/.idea/Section 6. Control Flow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/SUM_odd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/Topic_62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/forEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/.idea/Section 6. Control Flow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/SUM_odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/Topic_62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/forEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/out/production/Section 6. Control Flow/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section 6. Control Flow/test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2UHxN2mVO9duVVUCjON9Vnr8p4R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a4e3e6-9d25-4ad6-9cca-a362d74992a5" name="Changes" comment="" />
+      <created>1692610265193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692610265193</updated>
+    </task>
+    <servers />
+  </component>
+</project>
